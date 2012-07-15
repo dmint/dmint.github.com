@@ -116,14 +116,14 @@ ul#menu {
 	position:relative;
 	display:block;
 	width:950px;
-	height:500px;
+	min-height:500px;
 	margin:0 auto 30px;
 	padding:0px;
-	background-image:url('../images/noey_bg.jpg');
 	overflow:hidden;
+	border:1px solid #efefef;
 }
 
-#container h1 {
+#mainbody h1 {
 	position:absolute;
 	left:10px;
 	top:320px;
@@ -137,7 +137,7 @@ ul#menu {
 	text-shadow:0 2px 6px #222;
 }
 
-#container h2 {
+#mainbody h2 {
 	position:absolute;
 	left:30px;
 	top:380px;
@@ -153,15 +153,40 @@ ul#menu {
 
 #mainbody {
 	display:block;
+	float:left;
 	clear:both;
-	width:450px;
-	height:400px;
-	margin-top:25px;
+	width:950px;
+	height:500px;
+	margin:0;
+	padding:0;
 	background:#fff;
+	background-image:url('../images/noey_bg.jpg');
 	overflow:hidden;
 }
 
 #main {margin:50px 0px 0px 60px; width:365px; min-height:70px; background:#fdfdfd;}
+
+#leaderboard {
+	display:block;
+	float:left;
+	clear:both;
+	margin:0 0 60px 0;
+	padding:40px 0 0 30px;
+	background:#fff;
+	overflow:hidden;
+}
+
+#leaderboard h1 {
+	color:#222;
+	border-bottom:2px solid #222;
+	font-size:35px;
+	font-weight:300;
+	letter-spacing:2px;
+	margin:0;
+	padding:0 30px 0 30px;
+	text-transform:uppercase;
+}
+
 
 #bottom {
 	display:block;
@@ -227,4 +252,107 @@ a.menushadow:hover {
 	-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#fdfdfd,endColorstr=#d9d9d9)"; /* IE8 */
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#fdfdfd,endColorstr=#fef8f6); /* older IEs */
 	background-image: -o-linear-gradient(top, #fdfdfd 0%, #fef8f6 100%); /* Opera */
+}
+
+
+/* Individual Pages */
+
+
+/* Page - Menu */
+
+#page_menu {
+	display:block;
+	float:left;
+	clear:both;
+	width:950px;
+	min-height:400px;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	background:#fff;
+	overflow:hidden;
+}
+
+
+#page_menu ul {
+	display:block;
+	float:left;
+	width:100%;
+	min-height:300px;
+	clear:both;
+	margin:0 0 0 0;
+	padding:0;
+}
+
+#page_menu ul li {
+	display:inline-block;
+	float:left;
+	list-style-type:none;
+	color:#333;
+	font-size:12px;
+	font-weight:600;
+	width:165px;
+	min-height:250px;
+	line-height:14px;
+	margin:0 0 0 20px;
+	padding:0px 0px 0px 0px;
+	letter-spacing:1px;
+	background:#fff;
+}
+
+#page_menu li h3 {
+	color:#555;
+	font-size:16px;
+	font-weight:400;
+	letter-spacing:0px;
+	text-align:center;
+	margin:3px 0 0 0;
+	padding:0;
+}
+
+#page_menu li h4 {
+	color:#000;
+	font-size:11px;
+	font-weight:700;
+	letter-spacing:0px;
+	text-align:center;
+	margin:160px 0 0 0;
+	padding:0;
+	text-transform:uppercase;
+}
+#page_menu li p {
+	text-align:justify;
+	width:165px;
+	height:85px;
+	margin:5px 0 0 0;
+	padding:0;
+}
+
+#page_menu ul li.banana {
+	background-image: url('../images/menu_banana.jpg');
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+
+#page_menu ul li.peach {
+	background-image: url('../images/menu_peach.jpg');
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+
+#page_menu ul li.churro {
+	background-image: url('../images/menu_churro.jpg');
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+
+#page_menu ul li.mocha {
+	background-image: url('../images/menu_mocha.jpg');
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+
+#page_menu ul li.meyer-lemon {
+	background-image: url('../images/menu_meyer_lemon.jpg');
+	background-repeat:no-repeat;
+	background-position:0px 9px;
 }

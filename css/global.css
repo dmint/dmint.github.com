@@ -331,7 +331,7 @@ a.menushadow:hover {
 	width:100%;
 	min-height:300px;
 	clear:both;
-	margin:0 0 0 0;
+	margin:0 0 10px 0;
 	padding:0;
 }
 
@@ -367,7 +367,7 @@ a.menushadow:hover {
 	font-weight:700;
 	letter-spacing:0px;
 	text-align:center;
-	margin:160px 0 0 0;
+	margin:185px 0 0 0;
 	padding:0;
 	text-transform:uppercase;
 }
@@ -380,33 +380,47 @@ a.menushadow:hover {
 }
 
 #page_menu ul li.banana {
-	background-image: url('../images/menu_banana.jpg');
+	background-image: url('../images/menu_banana2.jpg');
 	background-repeat:no-repeat;
 	background-position:0px 0px;
 }
 
 #page_menu ul li.peach {
-	background-image: url('../images/menu_peach.jpg');
+	background-image: url('../images/menu_peach2.jpg');
 	background-repeat:no-repeat;
 	background-position:0px 0px;
 }
 
 #page_menu ul li.churro {
-	background-image: url('../images/menu_churro.jpg');
+	background-image: url('../images/menu_churro2.jpg');
 	background-repeat:no-repeat;
 	background-position:0px 0px;
 }
 
 #page_menu ul li.mocha {
-	background-image: url('../images/menu_mocha.jpg');
+	background-image: url('../images/menu_mocha2.jpg');
 	background-repeat:no-repeat;
 	background-position:0px 0px;
 }
 
 #page_menu ul li.meyer-lemon {
-	background-image: url('../images/menu_meyer_lemon.jpg');
+	background-image: url('../images/menu_meyer_lemon2.jpg');
 	background-repeat:no-repeat;
 	background-position:0px 9px;
+}
+
+#page_menu h6 {
+	display:block;
+	float:left;
+	clear:both;
+	width:100%;
+	color:#222;
+	font-size:12px;
+	font-weight:300;
+	letter-spacing:2px;
+	margin:30px 0 0px 0;
+	padding:0 0 0 0;
+	text-align:center;
 }
 
 /* Page - Contact */

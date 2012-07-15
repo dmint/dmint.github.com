@@ -218,7 +218,7 @@ ul#menu {
 	letter-spacing:2px;
 }
 
-#bottom a:link, #menu a:visited {
+#bottom a:link, #bottom a:visited {
 	color: #555;
 	font-size:12px;
 	font-weight:600;
@@ -407,4 +407,83 @@ a.menushadow:hover {
 	background-image: url('../images/menu_meyer_lemon.jpg');
 	background-repeat:no-repeat;
 	background-position:0px 9px;
+}
+
+/* Page - Contact */
+
+#page_contact {
+	display:block;
+	float:left;
+	clear:both;
+	width:950px;
+	min-height:400px;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	background:#fff;
+	overflow:hidden;
+}
+
+#page_contact h1 {
+	display:block;
+	float:left;
+	clear:both;
+	width:100%;
+	color:#222;
+	font-size:55px;
+	font-weight:300;
+	letter-spacing:2px;
+	margin:50px 0 50px 0;
+	padding:0 0 0 0;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+#page_contact h3 {
+	display:block;
+	float:left;
+	clear:both;
+	width:100%;
+	color:#222;
+	font-size:20px;
+	font-weight:300;
+	letter-spacing:2px;
+	margin:20px 0 0px 0;
+	padding:0 0 0 0;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+#page_contact h5 {
+	display:block;
+	float:left;
+	clear:both;
+	width:100%;
+	color:#222;
+	font-size:12px;
+	font-weight:400;
+	letter-spacing:2px;
+	margin:20px 0 0px 0;
+	padding:0 0 0 0;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+#page_contact a {
+	color:#555;
+	font-size:inherit;
+	margin:0;
+	padding:0;
+	letter-spacing:2px;
+}
+
+#page_contact a:link, #page_contact a:visited {
+	color: #555;
+	font-size:inherit;
+	letter-spacing:2px;
+	text-decoration: none;
+}
+
+#page_contact a:hover	{
+	color:#222;
+	text-decoration: underline;
 }

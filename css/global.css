@@ -272,29 +272,82 @@ a.menushadow:hover {
 	overflow:hidden;
 }
 
-#page_about img {
-	border:1px solid #222;
-	display:inline-block;
-	float:left;
-	clear:left;
-	margin:0 30px 0 30px;
-	padding:0 0 0 0;
-	
+#page_about a {
+	color:#555;
+	font-size:inherit;
+	margin:0;
+	padding:0;
+	letter-spacing:2px;
 }
 
-#page_about p {
+#page_about a:link, #page_contact a:visited {
+	color: #555;
+	font-size:inherit;
+	letter-spacing:2px;
+	text-decoration: none;
+}
+
+#page_about a:hover	{
+	color:#222;
+	text-decoration: underline;
+}
+
+#page_about .image_left {
 	display:inline-block;
+	width:500px;
+	min-height:300px;
+	margin:0 0 0 30px;
+	padding:0;
+}
+
+#page_about .image_left img {
+	border:1px solid #222;
+	display:block;
 	float:left;
-	clear:right;
+	clear:both;
+	margin:0;
+	padding:0;
+}
+
+#page_about .image_left h5 {
+	display:block;
+	float:left;
+	clear:left;
+	color:#222;
+	font-size:11px;
+	font-style:italic;
+	font-weight:600;
+	letter-spacing:1px;
+	margin:5px 0 0 10px;
+	padding:0 0 0 0;
+	text-align:left;
+}
+
+#page_about .info {
+	display:inline-block;
 	color:#222;
 	font-size:14px;
 	font-weight:400;
 	line-height:16px;
 	text-align:justify;
 	width:350px;
-	min-height:400px;
-	margin:0 0 30px 0;
-	padding:0 0 0 0;
+	min-height:300px;
+	margin:0 0 0 20px;
+	padding:0;
+	background:#fff;
+}
+
+#page_about .info p {
+	display:block;
+	color:#222;
+	font-size:14px;
+	font-weight:400;
+	line-height:16px;
+	text-align:justify;
+	width:350px;
+	min-height:300px;
+	margin:0;
+	padding:0;
 	background:#fff;
 }
 

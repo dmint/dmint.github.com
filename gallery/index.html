@@ -8,8 +8,16 @@
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="icon" href="favicon.png" type="image/png" />
 <link type="text/css" rel="stylesheet" href="../css/global.css" />
+<link type="text/css" rel="stylesheet" href="../css/colorbox.css" />
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://deg.io/scripts/colorbox.js"></script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($) {		
+		$(".boxit a").colorbox({transition:"elastic", rel:"group1"});
+});	
+</script>
 
 
 <title>Gallery - NoeyCakes</title>
@@ -48,6 +56,11 @@
 	<div id="leaderboard">
 		<h1>Gallery</h1>
 	</div>
+	<div id="page_gallery" class="thumbs100px shadow_tn boxit">
+		<a class="group1" href="01_large.jpg" title=""><img src="01_tn.jpg" alt="" /></a>
+		<a class="group1" href="02_large.jpg" title=""><img src="02_tn.jpg" alt="" /></a>
+	</div>
+	
 </div>
 
 <div id="bottom">

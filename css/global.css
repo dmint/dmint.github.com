@@ -562,17 +562,21 @@ a.menushadow:hover {
 	display:block;
 	float:left;
 	clear:both;
-	width:950px;
+	width:820px;
 	min-height:400px;
 	margin:0 0 0 0;
-	padding:10px 30px 0 30px;
+	padding:0px 70px 0 50px;
 	background:#fff;
 	overflow:hidden;
 }
 
+#page_gallery a.group1 {
+	width:102px;
+	height:102px;
+}
 
 /* Photos sections */
-.thumbs100px {display:block;margin:0px 0px 30px 30px;}
+.thumbs100px {display:block; margin:0px 0px 30px 30px;}
 .thumbs100px img {border:1px solid #333;padding:0px;margin:4px;display:inline;}
 .shadow_tn img {
 	box-shadow: rgba(0,0,0,0.40) 2px 2px 4px;

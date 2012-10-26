@@ -29,7 +29,7 @@
     #cboxBottomRight{width:25px; height:25px; background:url(../images/border1.png) no-repeat -25px -25px;}
     #cboxMiddleLeft{width:25px; background:url(../images/border2.png) repeat-y 0 0;}
     #cboxMiddleRight{width:25px; background:url(../images/border2.png) repeat-y -25px 0;}
-    #cboxContent{background:#fff; font-size:12px; font-weight:400; overflow:hidden;}
+    #cboxContent{background:#fff; font-size:12px; line-height:14px; font-weight:600; overflow:hidden;}
         .cboxIframe{background:#fff;}
         #cboxError{padding:50px; border:1px solid #ccc;}
         #cboxLoadedContent{margin-bottom:20px;}

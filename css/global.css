@@ -579,7 +579,7 @@ a.menushadow:hover {
 .thumbs100px {display:block; margin:0px 0px 30px 30px;}
 .thumbs100px img {border:1px solid #333;padding:0px;margin:4px;display:inline;}
 .shadow_tn img {
-	box-shadow: rgba(0,0,0,0.40) 2px 2px 4px;
-	-webkit-box-shadow: rgba(0,0,0,0.40) 2px 2px 4px;
-	-moz-box-shadow: rgba(0,0,0,0.40) 2px 2px 4px;
+	box-shadow: rgba(0,0,0,0.20) 4px 4px 10px;
+	-webkit-box-shadow: rgba(0,0,0,0.20) 4px 4px 10px;
+	-moz-box-shadow: rgba(0,0,0,0.20) 4px 4px 10px;
 }

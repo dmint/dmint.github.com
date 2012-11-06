@@ -152,16 +152,7 @@ ul#menu {
 }
 
 #mainbody {
-	display:block;
-	float:left;
-	clear:both;
-	width:100%;
-	height:500px;
-	margin:0;
-	padding:0;
-	background:#fff;
-	background-image:url('../images/noey_bg.jpg');
-	overflow:hidden;
+	position:absolute;
 }
 
 #main {margin:50px 0px 0px 60px; width:365px; min-height:70px; background:#fdfdfd;}

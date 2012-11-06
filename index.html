@@ -8,9 +8,29 @@
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="icon" href="favicon.png" type="image/png" />
 <link type="text/css" rel="stylesheet" href="css/global.css" />
+<link href="css/jslide.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script src="scripts/jslide.js"></script>              
+<script src="scripts/jquery.touchwipe.min.js"></script> 
+<script type="text/javascript" charset="utf-8">	
+ $(document).ready(function() { 
+	
+    $('#mainbody').jRunner({
+		className: 'jSlide',
+		easeType: 'fadeIn',
+		showArrow: true,
+		slideShow: true,
+		slideShowDelay: 8500,
+		responsive: true
+	});  
+	
+	
+ });
 
+ 
+</script>
 
 <title>NoeyCakes</title>
 
@@ -46,8 +66,24 @@
 	
 <div id="container" class="shadow">
 	<div id="mainbody">
+		<div class="jSlide_item">                                 	
+			<img src="images/slider1.jpg" class="bigImage" />
+			<span class="slide1Txt1">Cupcakes you wish</span>								
+			<span class="slide1Txt2">your mom could make.</span>													
+		</div>	
+		<div class="jSlide_item">                                 	
+			<img src="images/slider2.jpg" class="bigImage" data-animate="fadeInDown" />
+			<span class="slide3Txt1 animate7" data-animate="lightSpeedIn">Nom</span>								
+			<span class="slide3Txt2 animate8" data-animate="lightSpeedIn">Nom</span>
+			<span class="slide3Txt2 animate9" data-animate="lightSpeedIn">Nom</span>						
+			<span class="slide3Txt3 animate10 shadow" data-animate="bounceInDown">#NOM</span>																
+		</div>
+		
+<!--
 		<h1>Cupcakes you wish</h1>
 		<h2>your mom could make.</h2>
+		
+-->
 	</div>
 </div>
 

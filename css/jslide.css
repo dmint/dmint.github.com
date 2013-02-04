@@ -198,6 +198,24 @@
 
 .animate8{
    	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: 1.8s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: 1.8s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: 1.8s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: .6s;
+	animation-delay: 1.8s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+}
+.animate9{
+   	-webkit-animation-duration: .6s;
 	-webkit-animation-delay: 2.8s;
 	-webkit-animation-timing-function: ease;
 	-webkit-animation-fill-mode: both;
@@ -214,39 +232,21 @@
 	animation-timing-function: ease;
 	animation-fill-mode: both;	          
 }
-.animate9{
-   	-webkit-animation-duration: .6s;
-	-webkit-animation-delay: 4.8s;
-	-webkit-animation-timing-function: ease;
-	-webkit-animation-fill-mode: both;
-	-moz-animation-duration: .6s;
-	-moz-animation-delay: 4.8s;
-	-moz-animation-timing-function: ease;
-	-moz-animation-fill-mode: both;
-	-ms-animation-duration: .6s;
-	-ms-animation-delay: 4.8s;
-	-ms-animation-timing-function: ease;
-	-ms-animation-fill-mode: both;
-	animation-duration: .6s;
-	animation-delay: 4.8s;
-	animation-timing-function: ease;
-	animation-fill-mode: both;	          
-}
 .animate10{
    	-webkit-animation-duration: .6s;
-	-webkit-animation-delay: 6s;
+	-webkit-animation-delay: 4s;
 	-webkit-animation-timing-function: ease;
 	-webkit-animation-fill-mode: both;
 	-moz-animation-duration: .6s;
-	-moz-animation-delay: 6s;
+	-moz-animation-delay: 4s;
 	-moz-animation-timing-function: ease;
 	-moz-animation-fill-mode: both;
 	-ms-animation-duration: .6s;
-	-ms-animation-delay: 6s;
+	-ms-animation-delay: 4s;
 	-ms-animation-timing-function: ease;
 	-ms-animation-fill-mode: both;
 	animation-duration: .6s;
-	animation-delay: 6s;
+	animation-delay: 4s;
 	animation-timing-function: ease;
 	animation-fill-mode: both;	          
 }

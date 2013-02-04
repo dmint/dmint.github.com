@@ -55,7 +55,7 @@ table {
 	background-color:#fff;
 	background-image: url('../images/logo.png');
 	background-repeat:no-repeat;
-	background-position:10px 13px;
+	background-position:10px 10px;
 	overflow:hidden;
 }
 
@@ -89,12 +89,12 @@ ul#menu {
 	text-decoration: none;
 }
 
-#menu a#home_link:hover	{ color: #fff;background-color: #fc6821;text-decoration: none;margin:0;} /*orange*/
-#menu a#about_link:hover		{ color: #fff;background-color: #fc3835;text-decoration: none;margin:0;} /*red*/
-#menu a#cupcakes_link:hover		{ color: #fff;background-color: #cf2713;text-decoration: none;margin:0;} /*pink*/
-#menu a#gallery_link:hover		{ color: #fff;background-color: #5b41aa;text-decoration: none;margin:0;} /*red*/
-#menu a#blog_link:hover			{ color: #fff;background-color: #27127d;text-decoration: none;margin:0;} /*brown*/
-#menu a#contact_link:hover		{ color: #fff;background-color: #222;text-decoration: none;margin:0;} /*blue*/
+#menu a#home_link:hover	{ color: #fff;background-color: #e8a1a2;text-decoration: none;margin:0;} /*light-pink*/
+#menu a#about_link:hover		{ color: #fff;background-color: #9cd9e4;text-decoration: none;margin:0;} /*baby-blue*/
+#menu a#cupcakes_link:hover		{ color: #fff;background-color: #fe5397;text-decoration: none;margin:0;} /*pink*/
+#menu a#gallery_link:hover		{ color: #fff;background-color: #9cdcc8;text-decoration: none;margin:0;} /*mint-green*/
+#menu a#blog_link:hover			{ color: #fff;background-color: #c0a6ff;text-decoration: none;margin:0;} /*purple*/
+#menu a#contact_link:hover		{ color: #fff;background-color: #ed96bf;text-decoration: none;margin:0;} /*pink*/
 
 #menu a#press_link:hover		{ color: #fff;background-color: #ed96bf;text-decoration: none;margin:0;} /*pink*/
 

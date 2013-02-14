@@ -179,6 +179,47 @@ ul#menu {
 	text-transform:uppercase;
 }
 
+#special {
+	display:block;
+	width:950px;
+	height:12px;
+	margin:0px auto 0px;
+	padding:0px;
+	background-color:#fff;
+	overflow:hidden;
+}
+
+#special h5 {
+	color:#363636;
+	font-size:10px;
+	font-weight:400;
+	line-height:12px;
+	letter-spacing:1px;
+	margin:0;
+	padding:0;
+	text-align:left;
+}
+
+#special a {
+	color:#9cd9e4;
+	font-size:inherit;
+	margin:0;
+	padding:0;
+	letter-spacing:2px;
+}
+
+#special a:link, #special a:visited {
+	color:#9cd9e4;
+	font-size:inherit;
+	letter-spacing:2px;
+	text-decoration: none;
+}
+
+#special a:hover {
+	color:#9cd9e4;
+	text-decoration: underline;
+}
+
 
 #bottom {
 	display:block;
@@ -271,7 +312,7 @@ a.menushadow:hover {
 	letter-spacing:2px;
 }
 
-#page_about a:link, #page_contact a:visited {
+#page_about a:link, #page_about a:visited {
 	color: #555;
 	font-size:inherit;
 	letter-spacing:2px;

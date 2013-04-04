@@ -1,0 +1,163 @@
+http://www.intimint.com/intimates/crisscross-cheeky-brief?aid=
+http://www.intimint.com/intimates/sienna-lace-bra?aid=
+http://www.intimint.com/intimates/triple-front-strap-bra?aid=
+http://www.intimint.com/intimates/double-strap-string-thong?aid=
+
+intiMINT Currents:
+6$internal-email$p2139$c3947$8601&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/crisscross-cheeky-brief?aid=6$internal-email$p2139$c3947$8601&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/sienna-lace-bra?aid=6$internal-email$p2139$c3947$8601&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/triple-front-strap-bra?aid=6$internal-email$p2139$c3947$8601&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/double-strap-string-thong?aid=6$internal-email$p2139$c3947$8601&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+
+intiMINT Prospects:
+6$internal-email$p2120$c3948$8602&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/crisscross-cheeky-brief?aid=6$internal-email$p2120$c3948$8602&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/sienna-lace-bra?aid=6$internal-email$p2120$c3948$8602&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/triple-front-strap-bra?aid=6$internal-email$p2120$c3948$8602&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.intimint.com/intimates/double-strap-string-thong?aid=6$internal-email$p2120$c3948$8602&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+
+
+http://www.jewelmint.com/showroom?aid=
+http://www.jewelmint.com/jewelry/confetti-necklace?aid=
+http://www.jewelmint.com/jewelry/noir-pendulum-necklace?aid=
+http://www.jewelmint.com/jewelry/forever-floral-earrings?aid=
+http://www.jewelmint.com/jewelry/turquoise-temple-ring?aid=
+http://www.jewelmint.com/jewelry/crystal-decoder-ring?aid=
+http://www.jewelmint.com/jewelry/grey-shadows-ring?aid=
+http://www.jewelmint.com/jewelry/geometric-web-necklace?aid=
+http://www.jewelmint.com/jewelry/tangled-web-ring?aid=
+
+
+JewelMint Currents:
+1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/showroom?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/confetti-choker?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/noir-pendulum-necklace?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/forever-floral-earrings?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/turquoise-temple-ring?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/crystal-decoder-ring?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/grey-shadows-ring?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/geometric-web-necklace?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/tangled-web-ring?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+JewelMint Prospects:
+1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/showroom?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/confetti-choker?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/noir-pendulum-necklace?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/forever-floral-earrings?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/turquoise-temple-ring?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/crystal-decoder-ring?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/grey-shadows-ring?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/geometric-web-necklace?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/jewelry/tangled-web-ring?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+
+http://www.jewelmint.com/pages/jm-collective-designers?aid=
+http://www.jewelmint.com/collections/jm-whats-new-all?aid=
+http://www.jewelmint.com/collections/oia-jules?aid=
+http://www.jewelmint.com/collections/michelle-chang?aid=
+http://www.jewelmint.com/collections/cross-street-jewelry?aid=
+http://www.jewelmint.com/collections/lyra-love-star?aid=
+http://www.jewelmint.com/collections/robyn-rhodes?aid=
+http://www.jewelmint.com/collections/carma-collection?aid=
+
+
+JewelMint Currents:
+1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/pages/jm-collective-designers?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/collections/oia-jules?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/collections/michelle-chang?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/collections/cross-street-jewelry?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/collections/lyra-love-star?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/collections/robyn-rhodes?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/collections/carma-collection?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+
+JewelMint Prospects:
+1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+http://www.jewelmint.com/collections/jm-whats-new-all?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+
+
+
+$clickthrough(Brenda_Currents)$
+Brenda_Currents
+http://www.shoemint.com/shoes/brenda?aid=4$internal-email$p987$c3942$8598&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+$clickthrough(Karen_Currents)$
+Karen_Currents
+http://www.shoemint.com/shoes/karen?aid=4$internal-email$p987$c3942$8598&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+$clickthrough(Brenda_Currents)$
+Brenda_Currents
+http://www.shoemint.com/shoes/brenda?aid=4$internal-email$p987$c3942$8598&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+$clickthrough(Shiva_Currents)$
+Shiva_Currents
+http://www.shoemint.com/shoes/shiva?aid=4$internal-email$p987$c3942$8598&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+$clickthrough(Brenda_Currents)$
+Brenda_Currents
+http://www.shoemint.com/shoes/brenda?aid=4$internal-email$p987$c3942$8598&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+$clickthrough(Rae_Currents)$
+Rae_Currents
+http://www.shoemint.com/shoes/rae?aid=4$internal-email$p987$c3942$8598&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+
+Kabloom! Your March Showroom is Here
+$clickthrough(secondary_jm_showroom_pro)$
+
+March into Spring in your New ShoeMint Showroom
+$clickthrough(secondary_shm_showroom_pro)$
+
+Spring has sprung in your March StyleMint Showroom
+$clickthrough(secondary_sm_showroom_pro)$
+
+
+$clickthrough(secondary_im_showroom_pro)$
+
+
+
+secondary_jm_showroom_pro
+http://www.jewelmint.com/showroom?aid=1$internal-email$p117$c3950$8592&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+secondary_shm_showroom_pro
+http://www.shoemint.com/showroom?aid=4$internal-email$p987$c3942$8598&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+secondary_sm_showroom_pro
+http://www.stylemint.com/showroom?aid=2$internal-email$p944$c3952$8595&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+secondary_im_showroom_pro
+http://www.intimint.com/showroom?aid=6$internal-email$p2120$c3948$8602&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+
+Kabloom! Your March Showroom is Here
+$clickthrough(secondary_jm_showroom_cur)$
+
+March into Spring in your New ShoeMint Showroom
+$clickthrough(secondary_shm_showroom_cur)$
+
+Spring has sprung in your March StyleMint Showroom
+$clickthrough(secondary_sm_showroom_cur)$
+
+
+$clickthrough(secondary_im_showroom_cur)$
+
+
+
+secondary_jm_showroom_cur
+http://www.jewelmint.com/showroom?aid=1$internal-email$p940$c3949$8591&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+secondary_shm_showroom_cur
+http://www.shoemint.com/showroom?aid=4$internal-email$p1081$c3943$8597&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+secondary_sm_showroom_cur
+http://www.stylemint.com/showroom?aid=2$internal-email$p943$c3951$8594&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$
+
+secondary_im_showroom_cur
+http://www.intimint.com/showroom?aid=6$internal-email$p2139$c3947$8601&userid=$lookup(CUSTOMER_ID_)$_$securedigestashex(concat(lookup(EMAIL_ADDRESS_),265558381f1d3089c1a8550f96dc60f4), SHA)$

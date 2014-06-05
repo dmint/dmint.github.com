@@ -598,7 +598,7 @@ a.menushadow:hover {
 	width:820px;
 	min-height:400px;
 	margin:0 0 0 0;
-	padding:0px 70px 0 50px;
+	padding:0px 70px 50px 50px;
 	background:#fff;
 	overflow:hidden;
 }
